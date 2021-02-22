@@ -1,6 +1,6 @@
 {
   "name": "fws",
-  "description": "Free Write Server, for MetaSignaling",
+  "description": "Free Write Server, for my metasignaling project",
   "scripts": {
     "ts:build": "tsc",
     "build": "npm run ts:build",
